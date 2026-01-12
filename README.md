@@ -12,7 +12,6 @@ trained on IMDB movie reviews. Classifies text as positive or negative.
 ### Prerequisites
 - Python 3.8+
 - Git
-
 ### Setup Steps
 
 1. Clone repository
